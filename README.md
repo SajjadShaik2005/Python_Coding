@@ -1,47 +1,70 @@
 # Python_Coding 🐍
 
-Welcome to my Python learning repository.
+A collection of Python programs built as part of my learning journey.
 
-This repository contains all the Python programs I build as I progress from fundamentals to more advanced concepts. It serves as a record of my learning journey and practical experimentation with Python.
+This repository contains practice scripts, mini-projects, and concept-based implementations that help me strengthen my understanding of Python fundamentals and problem-solving.
 
 ---
 
 ## 📌 About This Repository
 
-- Beginner to intermediate Python programs
-- Practice exercises and mini-projects
-- Concept-based implementations
-- Continuous updates as I learn new topics
+This repo is my structured Python practice space where I:
 
-I will be regularly adding new Python programs here as I explore different areas such as:
+- Build small utility programs
+- Apply core programming concepts
+- Practice input validation and logic building
+- Improve problem-solving skills
+- Experiment with real-world scenarios
 
-- Core Python fundamentals
-- Object-Oriented Programming
-- File handling
-- Data structures
-- Problem solving
-- Automation scripts
-- And more
+New programs will be added regularly as I continue learning.
 
 ---
 
 ## 📂 Current Programs
 
-- `calculator.py` – Basic arithmetic calculator
-- `temp_conversion.py` – Celsius ↔ Fahrenheit converter
-- `weight_conversion.py` – Kilograms ↔ Pounds converter
-- `madlibs_game.py` – Interactive word-based story generator
+- `calculator.py`  
+  Performs basic arithmetic operations (+, -, *, /).
+
+- `temp_conversion.py`  
+  Converts temperatures between Celsius and Fahrenheit.
+
+- `weight_conversion.py`  
+  Converts weight between kilograms and pounds.
+
+- `madlibs_game.py`  
+  A simple interactive word game using formatted strings.
+
+- `compound_interest_calc.py`  
+  Calculates compound interest with proper input validation.
+
+- `countdown_timer.py`  
+  A countdown timer that displays hours, minutes, and seconds using time-based execution.
 
 ---
 
-## 🚀 Goal
+## 🧠 Concepts Practiced
 
-To strengthen my Python fundamentals and gradually move towards advanced topics including real-world applications and AI/ML integration.
+- Variables and data types
+- Conditional statements
+- Loops (while & for)
+- Input validation
+- Mathematical operations
+- Time module usage
+- Formatted string literals (f-strings)
 
 ---
 
-## 🔄 Updates
+## 🎯 Goal
 
-This repository will grow as I continue learning and building.
+To build a strong foundation in Python programming and progressively move toward advanced topics including:
 
-Stay tuned.
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Automation
+- AI & Machine Learning applications
+
+---
+
+## 🔄 Progress
+
+This repository will continuously grow as I explore new Python concepts and build more projects.
