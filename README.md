@@ -1,44 +1,44 @@
 # Python_Coding 🐍
 
-A collection of Python programs built as part of my learning journey.
+A growing collection of Python programs built as part of my learning journey.
 
-This repository contains practice scripts, mini-projects, and concept-based implementations that help me strengthen my understanding of Python fundamentals and problem-solving.
+This repository contains practice scripts, mini-projects, and small utility programs that help me strengthen core programming concepts and logical thinking.
 
 ---
 
 ## 📌 About This Repository
 
-This repo is my structured Python practice space where I:
+This is my dedicated space to:
 
-- Build small utility programs
-- Apply core programming concepts
-- Practice input validation and logic building
+- Practice Python fundamentals
+- Build small real-world inspired programs
 - Improve problem-solving skills
-- Experiment with real-world scenarios
+- Experiment with logic and validation
+- Track my progress over time
 
-New programs will be added regularly as I continue learning.
+New programs are added regularly as I continue learning and exploring Python.
 
 ---
 
-## 📂 Current Programs
+## 📂 Programs Included
 
-- `calculator.py`  
-  Performs basic arithmetic operations (+, -, *, /).
+### 🔢 Utilities & Calculators
+- `calculator.py` – Basic arithmetic operations
+- `compound_interest_calc.py` – Compound interest calculator with input validation
+- `temp_conversion.py` – Celsius ↔ Fahrenheit converter
+- `weight_conversion.py` – Kilograms ↔ Pounds converter
+- `countdown_timer.py` – Countdown timer using the time module
 
-- `temp_conversion.py`  
-  Converts temperatures between Celsius and Fahrenheit.
+### 🎮 Games & Interactive Programs
+- `RPS.py` – Rock Paper Scissors game
+- `dice_roller.py` – Random dice roll simulator
+- `number_guessing.py` – Number guessing game
+- `quiz_game.py` – Simple quiz application
+- `madlibs_game.py` – Word-based interactive story generator
 
-- `weight_conversion.py`  
-  Converts weight between kilograms and pounds.
-
-- `madlibs_game.py`  
-  A simple interactive word game using formatted strings.
-
-- `compound_interest_calc.py`  
-  Calculates compound interest with proper input validation.
-
-- `countdown_timer.py`  
-  A countdown timer that displays hours, minutes, and seconds using time-based execution.
+### 🛒 Simulation Programs
+- `shopping_cart.py` – Basic shopping cart logic implementation
+- `concession_stand.py` – Concession stand order simulation
 
 ---
 
@@ -46,25 +46,27 @@ New programs will be added regularly as I continue learning.
 
 - Variables and data types
 - Conditional statements
-- Loops (while & for)
+- Loops (for & while)
 - Input validation
 - Mathematical operations
-- Time module usage
-- Formatted string literals (f-strings)
+- Random module
+- Time module
+- String formatting (f-strings)
+- Basic program structuring
 
 ---
 
-## 🎯 Goal
+## 🎯 Objective
 
-To build a strong foundation in Python programming and progressively move toward advanced topics including:
+To build a strong foundation in Python and progressively move toward:
 
 - Object-Oriented Programming
 - Data Structures & Algorithms
-- Automation
-- AI & Machine Learning applications
+- Automation Scripts
+- AI & Machine Learning Applications
 
 ---
 
-## 🔄 Progress
+## 🚀 Status
 
-This repository will continuously grow as I explore new Python concepts and build more projects.
+This repository will continue expanding as I explore more advanced Python concepts and build larger projects.
